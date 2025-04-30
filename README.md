@@ -9,4 +9,3 @@
 
 https://majinper.github.io/Personal-Space/
 
-![Visitor Count](https://profile-counter.glitch.me/majinper/count.svg)
